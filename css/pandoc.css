@@ -1,0 +1,53 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  border-radius: 15px 15px 20px 20px;
+  border-bottom: 5px solid Gainsboro;
+  font-size: 1.1em;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  font-size: 1.1em;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+
+body {
+    background-color: Gainsboro;
+}
+
+h2 {
+    background-color: #303030;
+    margin: 0;
+    padding: 10px;
+    border-radius: 15px 15px 0px 0px;
+    border-top: 5px solid Gainsboro;
+    color: WhiteSmoke;
+
+}
+
+p {
+    font-size: 1.2em;
+    background-color: Silver;
+    margin: 0;
+    line-height: normal;
+    padding: 10px 10px 10px;
+    border-radius: 0px 0px 15px 15px;
+    border-bottom: 5px solid Gainsboro;
+    color: Black;
+}
+
